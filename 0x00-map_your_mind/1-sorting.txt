@@ -1,0 +1,10 @@
+For I = 0 to 2 -2
+    For J = 0 to N -2
+	IF(J>(J+1)) Then
+	   temp = J
+	   J = J + 1
+	   (J +1) = temp
+        End-If
+    End-For
+End-For
+	
