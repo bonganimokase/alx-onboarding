@@ -1,0 +1,8 @@
+sum = 0
+Input number
+
+While number > 0 
+     sum = sum + number
+     Input number
+loop
+Display "The sum is ", sum
